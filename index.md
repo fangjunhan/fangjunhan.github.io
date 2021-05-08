@@ -1,51 +1,100 @@
----
-layout: homepage
----
-
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
+
+Before joining CMIPS, I obtained my Ph.D degree in Biostatistics from the University of Waterloo, supervised by [Dr. Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html)
+
+I received my Master of Science in Public Health in Biostatistics from Rollins School of Public Health, Emory University and BA in Statistics from Southwestern University of Finance and Economics.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+> Methodology:
 
-## News
+Matrix-variate data analysis, Measurement Error, Causal Inference with Network based Design, Bayesian Analysis, Statistical Machine Learning
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
-## Publications
+>Applications: 
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+HIV/AIDS prevention; Multi-pollutants and Mixtures in Air pollutions; Brain imaging data (e.g., fMRI, EEG)
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+## Publications and Working Papers
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+
+*  **Fang, J.** and Yi, G.Y. (2021). Matrix-Variate Logistic Regression with Measurement Error. _Biometrika_, 108.1 (2021): 83-97.
+*  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, in press.
+ * **Fang, J.** and Yi, G.Y. (2021+). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_. Invited for revision; revision has been submitted.
+*  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2021+). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. Invited for revision.
+*  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2021+). Submitted for Publication.
+*  He, W., Yi, G.Y., and **Fang, J.** (2021+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
+
+
+
+
+
+## Honors and Awards
+
+* The Pierre Robillard Award for the best PhD thesis in the areas of probability and statistics defended in Canada, 2021
+* The Sprott Award for the best Ph.D. Thesis Proposal, 2019, University of Waterloo
+* Statistics and Actuarial Science Graduate Teaching Award, Winter 2017, University of Waterloo
+
+
+## Notable Scholarships
+
+* MATH Senate Graduate Scholarship, Winter 2020, University of Waterloo
+* Statistics and Actuarial Science Chair's Award, Fall 2019, University of Waterloo
+
+
+
+
+
+
+
+## Conference and Academic Presentations
+
+
+
+* Statistical Society of Canada 2019 Annual Meeting, University of Calgary, Calgary, Alberta. _Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification_, 2019. 
+* Statistical Society of Canada 2018 Annual Meeting, McGill University, Montreal, Québec. _Matrix-Variate Logistic Regression with Measurement Error_, 2018.
+* 2nd SAS/WatRISQ Research Presentation Day, University of Waterloo, Waterloo, Ontario. _Matrix-Variate Logistic Regression with Measurement Error_, 2018.
+
+
+
+
+
+## Research Experience
+
+
+* **Research Assistant**, _The Mayberg’s Lab_, Department of Psychology, School of Medicine, Emory University, Atlanta, GA, Jun 2015 - May 2016.
+
+* **Research Assistant**, _Center for Global Safe Wash_, Rollins School of Public Health, Emory University, Atlanta, GA, Nov 2014 - May 2016.
+
+* **Member**, _The Center for Biomedical Imaging Statistics_, Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA, Aug 2014 - May 2016.
+
+
+
+
+## Teaching Experience
+
+- Teaching Assistant at Univesity of Waterloo
+  - Stat 431: Generalized Linear Regression
+  - Stat 371: Applied Linear Models and Process Improvement for Business
+  - Stat 331: Applied Linear Models
+  - Stat 230: Probability
+- Teaching Assistant at Emory Univeristy
+  - Applied Biostatistics I
+
+
+## Peer-review Service
+
+* Statistics in Medicine
+
+## Technical Skills
+
+R, Matlab, Python, SAS, SQL
+
+
+
+
+
