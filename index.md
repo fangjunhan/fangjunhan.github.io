@@ -23,8 +23,8 @@ HIV/AIDS prevention; Multi-pollutants and Mixtures in Air pollutions; Brain imag
 
 
 *  **Fang, J.** and Yi, G.Y. (2021). Matrix-Variate Logistic Regression with Measurement Error. _Biometrika_, 108.1 (2021): 83-97.
-*  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, in press.
- * **Fang, J.** and Yi, G.Y. (2021+). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_. Invited for revision; revision has been submitted.
+*  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, 2021.
+ * **Fang, J.** and Yi, G.Y. (2021+). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 2021.
 *  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2021+). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. Invited for revision.
 *  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2021+). Submitted for Publication.
 *  He, W., Yi, G.Y., and **Fang, J.** (2021+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
@@ -53,11 +53,11 @@ HIV/AIDS prevention; Multi-pollutants and Mixtures in Air pollutions; Brain imag
 
 ## Conference and Academic Presentations
 
-
-
-* Statistical Society of Canada 2019 Annual Meeting, University of Calgary, Calgary, Alberta. _Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification_, 2019. 
-* Statistical Society of Canada 2018 Annual Meeting, McGill University, Montreal, Québec. _Matrix-Variate Logistic Regression with Measurement Error_, 2018.
-* 2nd SAS/WatRISQ Research Presentation Day, University of Waterloo, Waterloo, Ontario. _Matrix-Variate Logistic Regression with Measurement Error_, 2018.
+* Joint Statistical Meetings 2021, Virtual. _Contributed Talk: Leveraging Influencers in the Design of Network-Structured Studies to Estimate Direct and Spillover Effects_, 2021.
+* Statistical Society of Canada 2020 Annual Meeting, Virtual. _Invited Talk: Matrix-Variate Logistic Regression with Measurement Error_, 2020. 
+* Statistical Society of Canada 2019 Annual Meeting, University of Calgary, Calgary, Alberta. _Contributed Talk: Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification_, 2019. 
+* Statistical Society of Canada 2018 Annual Meeting, McGill University, Montreal, Québec. _Contributed Talk: Matrix-Variate Logistic Regression with Measurement Error_, 2018.
+* 2nd SAS/WatRISQ Research Presentation Day, University of Waterloo, Waterloo, Ontario. _Contributed Talk: Matrix-Variate Logistic Regression with Measurement Error_, 2018.
 
 
 
