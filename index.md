@@ -24,7 +24,7 @@ HIV/AIDS prevention; Multi-pollutants and Mixtures in Air pollutions; Brain imag
 
 *  **Fang, J.** and Yi, G.Y. (2021). Matrix-Variate Logistic Regression with Measurement Error. _Biometrika_, 108.1 (2021): 83-97.
 *  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, 2021.
- * **Fang, J.** and Yi, G.Y. (2021+). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 2021.
+ * **Fang, J.** and Yi, G.Y. (2021). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 2021.
 *  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2021+). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. Accepted.
 *  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2021+). Submitted for Publication.
 *  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2021+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
