@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a part-time statistical consultant at Yale University, before that I was the postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
+I am currently a part-time statistical consultant at Yale University. Before this, I was the postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
 
 Before joining CMIPS, I obtained my Ph.D degree in Biostatistics from the University of Waterloo, supervised by [Dr. Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html).  My thesis won the [Pierre Robillard Award in Canada, 2011](https://ssc.ca/en/awards/2021/junhan-fang-pierre-robillard-award-2021)
 
