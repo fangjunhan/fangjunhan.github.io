@@ -30,8 +30,8 @@ Designing and analyzing complex health studies using innovative statistical meth
  * **Fang, J.** and Yi, G.Y. (2022). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 49(4), 1298-1316.
 *  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2022). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. 48(1), 73-93.
 *  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2022+). Submitted for Publication.
-*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2022+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
-*  He, W., Yi, G.Y., and **Fang, J.** (2022+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
+*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2023+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
+*  He, W., Yi, G.Y., and **Fang, J.** (2023+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
 
 
 
