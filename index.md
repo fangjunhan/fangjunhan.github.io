@@ -25,13 +25,13 @@ Designing and analyzing complex health studies using innovative statistical meth
 ## Publications and Working Papers
 
 
-*  **Fang, J.** and Yi, G.Y. (2021). Matrix-Variate Logistic Regression with Measurement Error. _Biometrika_, 108.1 (2021): 83-97.
+*  **Fang, J.** and Yi, G.Y. (2021). Matrix-Variate Logistic Regression with Measurement Error. _Biometrika_, 108.(1), 83-97.
 *  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, 2021.
- * **Fang, J.** and Yi, G.Y. (2021). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 2021.
-*  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2021+). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. Accepted.
-*  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2021+). Submitted for Publication.
-*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2021+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
-*  He, W., Yi, G.Y., and **Fang, J.** (2021+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
+ * **Fang, J.** and Yi, G.Y. (2022). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 49(4), 1298-1316.
+*  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2022). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. 48(1), 73-93.
+*  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2022+). Submitted for Publication.
+*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2022+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
+*  He, W., Yi, G.Y., and **Fang, J.** (2022+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
 
 
 
