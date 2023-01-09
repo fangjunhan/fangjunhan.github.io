@@ -2,7 +2,7 @@
 
 I am currently a part-time statistical consultant at Yale University, before that I was the postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
 
-Before joining CMIPS, I obtained my Ph.D degree in Biostatistics from the University of Waterloo, supervised by [Dr. Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html). My thesis won the [Pierre Robillard Award in Canada, 2011](https://ssc.ca/en/awards/2021/junhan-fang-pierre-robillard-award-2021)
+Before joining CMIPS, I obtained my Ph.D degree in Biostatistics from the University of Waterloo, supervised by [Dr. Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html).  My thesis won the [Pierre Robillard Award in Canada, 2011](https://ssc.ca/en/awards/2021/junhan-fang-pierre-robillard-award-2021)
 
 I received my Master of Science in Public Health in Biostatistics from Rollins School of Public Health, Emory University and BA in Statistics from Southwestern University of Finance and Economics.
 
@@ -10,12 +10,15 @@ I received my Master of Science in Public Health in Biostatistics from Rollins S
 
 > Methodology:
 
-Matrix-variate data analysis, Measurement Error, Causal Inference with Network based Design, Bayesian Analysis, Statistical Machine Learning
+Matrix-variate data analysis, Measurement Error, Causal Inference with Network based Design, Bayesian Analysis, Regression for High-dimensional data, Experimental Study Designs
+
+
 
 
 >Applications: 
 
-HIV/AIDS prevention; Multi-pollutants and Mixtures in Air pollutions; Brain imaging data (e.g., fMRI, EEG)
+Designing and analyzing complex health studies using innovative statistical methods in HIV research, Brian Imaging, and Oncology
+
 
 
 
