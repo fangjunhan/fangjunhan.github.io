@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a part-time statistical consultant at Yale University. Before this, I was the postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
+I am currently a Biostatistician at Roche, and a part-time statistical consultant at Yale University. Before this, I was the postdoc fellow working with Dr. Donna Spiegelman and Dr. Laura Forastiere in the Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, Yale University.
 
 Before joining CMIPS, I obtained my Ph.D degree in Biostatistics from the University of Waterloo, supervised by [Dr. Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html).  My thesis won the [Pierre Robillard Award in Canada, 2021](https://ssc.ca/en/awards/2021/junhan-fang-pierre-robillard-award-2021)
 
@@ -29,8 +29,8 @@ Designing and analyzing complex health studies using innovative statistical meth
 *  **Fang, J.** and Yi, G.Y. (2021). Imputation and Likelihood Methods for Matrix-Variate Logistic Regression with Response Misclassification. _The Canadian Journal of Statistics_, 2021.
  * **Fang, J.** and Yi, G.Y. (2022). Regularized Matrix-Variate Regression with Misclassification in Binary Response. _The Journal of Statistical Planning and Inference_, 49(4), 1298-1316.
 *  Thompson, M. E., Sedransk J., **Fang, J.** and Yi, G.Y. (2022). A Bayesian pairwise composite likelihood with survey data. _Survey Methodology_. 48(1), 73-93.
-*  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2022+). Submitted for Publication.
-*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2023+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. To be submitted for publication shortly.
+*  **Fang, J.** and Yi, G.Y. Bayesian Approach for Matrix-Variate Logistic Regression with/without Response Misclassification and Structural Measurement Error. (2023). _Statistics and Computing_, 33 (6), 121
+*  **Fang, J.** , Spiegelman, D., Buchanan, A.,  Forastiere L. (2023+).  Design of network-based studies to estimate individual and spillover effects and identify key influencer. _arXiv preprint arXiv:2308.00791_
 *  He, W., Yi, G.Y., and **Fang, J.** (2023+). Prediction with Response Error, with an Application to the Prostate Cancer Imaging Study. To be submitted for publication shortly.
 
 
